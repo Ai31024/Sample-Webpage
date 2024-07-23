@@ -3,7 +3,6 @@
 A sample website was created using Bootstrap v5.3.3.
 It was inspired by Angela Yu's Web Development Bootcamp lessons.
 
-
 --MIT License--
 © 2024 Ai31024
 
